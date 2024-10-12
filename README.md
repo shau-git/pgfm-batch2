@@ -10,3 +10,4 @@ info of programming fundemental for batch 2
 - bullet 2
 - bullet 3
 - bullet 4
+- bullet 5
