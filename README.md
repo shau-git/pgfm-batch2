@@ -7,5 +7,5 @@
 info of programming fundemental for batch 2
 
 - bullet 1
-- buller 23
-
+- bullet 2
+- bullet 3
